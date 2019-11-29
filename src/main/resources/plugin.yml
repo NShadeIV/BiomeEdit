@@ -1,0 +1,5 @@
+name: BiomeEdit
+authors: [NShadeIV]
+version: 0.1
+main: org.aztecmc.biomeedit.Plugin
+api-version: 1.13
