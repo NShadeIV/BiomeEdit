@@ -1,5 +1,12 @@
 name: BiomeEdit
 authors: [NShadeIV]
+website: aztecmc.org
 version: 0.1
-main: org.aztecmc.biomeedit.Plugin
+main: org.aztecmc.plugins.biomeedit.Plugin
 api-version: 1.13
+depend:
+- WorldEdit
+commands:
+  /replacebiome:
+    description:
+    aliases:
